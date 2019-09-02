@@ -9,7 +9,7 @@ const modelParams = {
 
 const video = document.querySelector('#video');
 const canvas = document.querySelector('#canvas');
-const context = canvas.getContext('2d');
+//const context = canvas.getContext('2d');
 var theBox = document.querySelector('.element');
 let model = null;
 let counter = 0;
